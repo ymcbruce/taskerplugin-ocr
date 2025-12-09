@@ -6,3 +6,4 @@ This App is based on <a href="https://developers.google.com/ml-kit/vision/text-r
 ## 🚀<font color="#2467d6"><b>Features</b></font>
 
 * A Tasker plugin [TaskerPlugin](https://github.com/joaomgcd/TaskerPluginSample/blob/master/README.md).
+* YMC build
